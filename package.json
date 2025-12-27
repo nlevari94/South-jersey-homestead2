@@ -1,0 +1,17 @@
+{
+  "name": "south-jersey-homestead",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build && next export"
+  },
+  "dependencies": {
+    "next": "13.x",
+    "react": "18.x",
+    "react-dom": "18.x",
+    "framer-motion": "^10.0.0"
+  }
+}
